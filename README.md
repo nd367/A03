@@ -24,7 +24,7 @@ GIT
 Github
 Merge
 Merge Conflict
-Push
+Push - sends latest changes from Webstorm to Github. 
 Pull
 Remote
 Repository

@@ -13,7 +13,7 @@ Part 1: Step by Step Directions on Using Webstorm
   10. **Push** the changes to **remote repository** and then file will be on **Github**.
   11. Set up **Github** pages by going to Settings and checking the repository name.
   12. Choose **Github** page location by choosing master **branch**.
-  13. Lastly, check your **Github pages**
+  13. Lastly, check your **Github** pages.
 
 Part 2: Glossary 
   - **Branch** - An independant line of development that has the content from your work, but the changes in the **branch** will not affect the main body of work.

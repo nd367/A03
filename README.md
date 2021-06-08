@@ -13,18 +13,18 @@ Part 1: Step by Step Directions on Using Webstorm
   10. **Push** the changes to **remote repository** and then file will be on **Github**.
 
 Part 2: Glossary 
-  - **Branch** 
+  - **Branch** - An independant line of development that has the content from your work, but the changes in the branch will not affect the main body of work.
   - **Clone** - To download data from an existing repository and create a new project. 
   - **Commit** - Save new changes to the local repository. 
-  - **Fetch** - Downloads commitsd and files from a remote repository into a local repository.
+  - **Fetch** - Downloads commits and files from a remote repository into a local repository.
   - **GIT** - A version control system.
   - **Github** - A Git repository hosting service.  
   - **Merge** - To combine changes by combining two branches together. 
-  - **Merge Conflict**
+  - **Merge Conflict** - Combining conflicting files where pushed changes do not overlap.
   - **Push** - Sends latest changes from Webstorm to Github. 
   - **Pull** - Take changes from one branch to the current branch.
-  - **Remote**
-  - **Repository**
+  - **Remote** - A server runs in a different location such as another computer.
+  - **Repository** - A folder where Git helps track file changes.
 
 
 

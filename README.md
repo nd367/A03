@@ -1,32 +1,31 @@
 # A03
-Part 1: Directions Using Webstorm
+Part 1: Step by Step Directions on Using Webstorm
 
-  STEP 1: Download Webstorm using https://www.jetbrains.com/student
-  STEP 2: Install Git using https://git-scm.com/downloads
-  STEP 3: Set up Github account using https://github.com/join
-  STEP 4: Connect GitHub to Webstorm.
-  STEP 5: Create a respository through GitHub.
-  STEP 6: Create a repository from Webstorm.
-  STEP 7: Import a repository from from GitHub.
-  STEP 8: Create a Webstorm file and add to Git.
-  STEP 9: Commit your changes.
-  STEP 10: Push the changes to remote repository and then file will be on Github.
+  1. Download Webstorm using https://www.jetbrains.com/student.
+  2. Install **GIT** using https://git-scm.com/downloads.
+  3. Set up **Github** account using https://github.com/join.
+  4. Connect **Github** to Webstorm.
+  5. Create a **repository** through **Github**.
+  6. Create a **repository** from Webstorm.
+  7. Import a **repository** from **Github**.
+  8. Create a Webstorm file and add to **Git**.
+  9. **Commit** your changes.
+  10. **Push** the changes to **remote repository** and then file will be on **Github**.
 
-Part 2: Glossary to include these terms in a bulleted list.
+Part 2: Glossary 
+  - **Branch**
+  - **Clone**
+  - **Commit**
+  - **Fetch**
+  - **GIT** - A version control system.
+  - **Github** - A Git repository hosting service.  
+  - **Merge**
+  - **Merge Conflict**
+  - **Push** - Sends latest changes from Webstorm to Github. 
+  - **Pull** - take changes from one branch to the current branch.
+  - **Remote**
+  - **Repository**
 
-Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
-Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push - sends latest changes from Webstorm to Github. 
-Pull
-Remote
-Repository
 
 
